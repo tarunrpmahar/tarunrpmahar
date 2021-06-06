@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tarun
 
 
-- 🦸‍♂️.NET Developer at [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/mycompany/).
+- 👨‍💻 **.NET Developer** at [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/mycompany/).
 
 - 🌱 I’m currently learning ML.NET
  
