@@ -2,9 +2,9 @@
 
 ---------------------
 
-About me
+<h4>About me :</h4>
 
-> A **Technophile** <img src="https://github.com/tarunrpmahar/tarunrpmahar/blob/master/Assets/Developer.gif" width="30px">  who loves to explore new things and mess around with some ideas.
+> A **Technophile** <img src="https://github.com/tarunrpmahar/tarunrpmahar/blob/main/assets/Developer.gif" width="30px">  who loves to explore new things and mess around with some ideas.
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=40% width=40% align="right">
 
@@ -32,13 +32,15 @@ About me
             <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunrpmahar&theme=tokyonight"
                 alt="tarun's Github commit streak"> <br>
         </a>
-        <a href="#">
+<!--         <a href="#">
             <img width="49%"  src="https://metrics.lecoq.io/tarunrpmahar">
-        </a> 
+        </a>  -->
     </div>
 </details>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+
+
 
 
 
