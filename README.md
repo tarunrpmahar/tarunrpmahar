@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- Associate at Celebal Technologies.
+- 🦸‍♂️.NET Developer at Celebal Technologies.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ML.NET
 - 👯 I’m looking to collaborate on ...
