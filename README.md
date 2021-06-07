@@ -12,10 +12,10 @@
 - 👨‍💻 **.NET Developer** at [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/mycompany/).
 - 🌱 I’m currently learning ML.NET
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ASP.NET Core MVC
+- 👯 I’m looking to collaborate on .NET projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tarunrpmahar/)
 - ⚡ Fun fact: I love to learn new things, and I embrace my inner nerd. 🤓.
 
