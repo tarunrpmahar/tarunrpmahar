@@ -9,7 +9,6 @@
 
 
 - 👨‍💻 **.NET Developer** at [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/mycompany/).
-- 🌱 I’m currently learning ML.NET
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on ASP.NET Core MVC
 - 👯 I’m looking to collaborate on .NET projects
