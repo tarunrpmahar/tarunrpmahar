@@ -36,7 +36,6 @@
     </div>
 </details>
 
-<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
 
 
 
@@ -56,6 +55,8 @@ Just a fenfen that loves to learn new things, mess around with some ideas, draw 
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, 
 
 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Python</code></li>
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
 
 -->
 
