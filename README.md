@@ -1,9 +1,9 @@
-# Hello World <img src="assets/World.gif" width="29px"> I'm Tarun Singh Mahar <img src="assets/Hello.gif" width="29px">
+# Hello World I'm Tarun Singh Mahar <img src="assets/Hello.gif" width="29px">
 
 ------------
 <h4>About me :</h4>
 
-> A **Technophile** <img src="https://github.com/tarunrpmahar/tarunrpmahar/blob/main/assets/Developer.gif" width="30px">  who loves to explore new things and mess around with some ideas.
+> A **Technophile** who loves to explore new things and mess around with some ideas.
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=40% width=40% align="right">
 
