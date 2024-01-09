@@ -8,7 +8,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=40% width=40% align="right">
 
 
-- 👨‍💻 **.NET Developer** at [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/mycompany/).
+- 👨‍💻 **.NET Developer** at [Value Creed](https://www.linkedin.com/company/value-creed-llc/mycompany/).
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on ASP.NET Core MVC
 - 👯 I’m looking to collaborate on .NET projects
